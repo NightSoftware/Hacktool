@@ -73,12 +73,7 @@ hcxeiutool: calculate wordlists from ESSID
 hashcat or JtR: get PSK from hash
 
 
-Get source
---------------
-```
-git clone https://github.com/ZerBea/hcxtools.git
-cd hcxtools
-```
+
 
 Compile & install
 --------------
