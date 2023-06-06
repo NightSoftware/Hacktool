@@ -26,7 +26,7 @@ Multiple stand-alone binaries - designed to run on Arch Linux, but other Linux d
 
 All of these utilities are designed to execute only one specific function.
 
-hcxdumptool moved to: https://github.com/ZerBea/hcxdumptool
+
 
 Read this post: hcxtools - solution for capturing wlan traffic and conversion to hashcat formats (https://hashcat.net/forum/thread-6661.html)
 
